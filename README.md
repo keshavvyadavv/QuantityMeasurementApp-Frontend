@@ -1,4 +1,3 @@
-Bhai 👍 ye raha **complete single README.md file** — copy → paste directly GitHub me 👇
 
 ```
 # Quantity Measurement App
@@ -203,19 +202,3 @@ Swagger UI available at:
 http://localhost:8080/swagger-ui/index.html
 ```
 
-```
-
----
-
-## 💯 Done
-👉 Direct GitHub ready  
-👉 Clean + professional  
-
----
-
-Agar next level banana hai:
-- ⭐ badges  
-- 📸 screenshots  
-- 🌍 deployment (Netlify + Render)  
-
-```
