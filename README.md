@@ -1,5 +1,4 @@
 
-```
 # Quantity Measurement App
 
 A full-stack web application for performing quantity measurements including comparison, conversion, and arithmetic operations across multiple measurement types.
