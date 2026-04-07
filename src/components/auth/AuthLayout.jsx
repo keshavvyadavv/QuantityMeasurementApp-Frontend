@@ -58,7 +58,7 @@ export default function AuthLayout() {
                             textTransform: "uppercase",
                         }}
                     >
-                        ONLINE BOOK SHOPPING
+                        Quantity Measurement App
                     </p>
                 </div>
 
